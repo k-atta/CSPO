@@ -1,0 +1,9 @@
+{
+  "name": "Hinomaru Stake Pool",
+  "ticker": "Hino0",
+  "discordId":"Hinomaru#6721",
+  "pool-list":"true"
+  "poolMetaData":"https://raw.githubusercontent.com/k-atta/CSPO/main/poolMetaData.json",
+  "validation":"https://raw.githubusercontent.com/k-atta/CSPO/main/sjg-validation.json"
+}
+
